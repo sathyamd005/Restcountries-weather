@@ -1,0 +1,9 @@
+body{
+    background-color:rgb(54, 68, 68);
+}
+img{
+    margin-top: 30px;
+    width:190px;
+    height:190px;
+    object-fit: contain;
+}
